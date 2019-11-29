@@ -28,5 +28,13 @@
 
 ## Obs: 
 ## Os dados podem ser inseridos no banco por meio de uma interface gráfica como workbench.
+## Subindo o código
+- Na guia code do seu repositório criado clique em upload files;
+- Na tela que será carregada é possível escolher as pastas a serem carregadas ou mesmo arrasta-las para o local indicado.
+- Aguarde o envio dos arquivos.
+- Vá até o final da página após o formulário de Commit e clique em COMMIT CHANGES
+- Copie a URL do seu repositório
+- Cole como issue em https://github.com/emersonfidelon/oficial2POO20192/issues seguindo orientações prévias.
+- Clique em Submit new issue;
 
-## Boa Prova;
+## Boa Prova!!!
