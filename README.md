@@ -23,7 +23,7 @@
 - Todas as tabelas no banco de dados devem ser criadas por meio de migrations 
 - Subir o projeto para a sua conta github (Caso não possua, crie uma conta). 
 - Ficar atento para que todas as pastas sejam selecionadas no upload menos a pasta VENDOR, essa não deve ser selecionada, caso haja dificuldade, faça upload das pastas individualmente.
-- Enviar o link do projeto como issue neste repositório https://github.com/emersonfidelon/atividadeOficial2POO220192/issues até as 22 horas.
+- Enviar o link do projeto como issue neste repositório https://github.com/emersonfidelon/oficial2POO20192/issues até as 22 horas.
 - Clique em New issue. No título da Issue adicione seu nome completo e no corpo da issue o link do seu repositório Git com o código da prova. 
 
 ## Obs: 
